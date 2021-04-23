@@ -7,6 +7,7 @@ namespace SunriseSunsetServer
         static void Main(string[] args)
         {
             // Server to get Sunrise and Sunset data for Docker project
+            System.Console.WriteLine("");
         }
     }
 }
